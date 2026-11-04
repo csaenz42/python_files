@@ -44,3 +44,10 @@
 > https://. We want to remove this prefix, so we can focus on just the part of the URL that users need to enter into an address bar.
 > nostarch_url.removeprefix('https://')
 
+### *What is a List?*  
+
+> A list is a collection of items in a particular order. You can make a list that includes the letters of the alphabet, the digits from 0 to 9, or the names of all the people in your family. You can put anything you want into a list, and the items in your list don’t have to be related in any particular way. Because a list usually contains more than one element, it’s a good idea to make the name of your list plural, such as letters, digits, or names.
+>
+> Review the *bicycles.py* file.  
+>
+> 
