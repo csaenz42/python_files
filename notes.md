@@ -37,3 +37,10 @@
 > ```  
 >
 > This is only a temporary removal of whitespace.  
+
+### *Removing Prefixes*  
+
+> Example: nostarch_url = 'https://nostarch.com'  
+> https://. We want to remove this prefix, so we can focus on just the part of the URL that users need to enter into an address bar.
+> nostarch_url.removeprefix('https://')
+
